@@ -56,7 +56,7 @@ get-executionpolicy remotesigned -f
 ```
 *未達成の項目
 
-Office毎のwifi登録
+所属部署毎のwifi登録
 デスクトップアイコンのピン留め
 スタートのピン留め
 スクリーンセーバーの設定
